@@ -1,0 +1,70 @@
+name: Propose a project
+description: Propose a new software week project.
+title: ""
+labels: ["project", "awaiting approval"]
+body:
+  - type: input
+    id: proposer
+    attributes:
+      label: Your name and department
+      description: Who is proposing this project?
+      placeholder: eg. James Bond, Department of Computer Science
+    validations:
+      required: true
+  - type: input
+    id: more-people
+    attributes:
+      label: Name(s) and department(s) of anyone else relevant to this project
+      description: Is there anyone else who will be involved with this project?
+    validations:
+      required: false
+  - type: textarea
+    id: background
+    attributes:
+      label: Please write a brief description of the application area of probject
+      description: You should aim for this to be understandable to student on the CDT.
+      placeholder: Write your description here
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Please describe the project.
+      description: What work are you proposing should be done as part of this project?
+      placeholder: Write your description here
+    validations:
+      required: true
+  - type: textarea
+    id: outputs
+    attributes:
+      label: What will be the outputs of this project?
+      description: Will this project lead to contributions to an open source project? Or contribute to a software paper? Or something else?
+    validations:
+      required: true
+  - type: input
+    id: browsers
+    attributes:
+      label: Which programming language(s) will this project use?
+      description: Leave blank if the language is still to be decided
+    validations:
+      required: false
+  - type: textarea
+    id: software-links
+    attributes:
+      label: Links to any relevant existing software repositories, etc.
+    validations:
+      required: false
+  - type: textarea
+    id: literature-links
+    attributes:
+      label: Links to any relevant papers, blog posts, etc.
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: CDT's expected behaviour
+      description: By submitting this issue, you agree to follow the CDT's expected behaviour (link to be added).
+      options:
+        - label: I agree to follow the CDT's expected behaviour
+          required: true

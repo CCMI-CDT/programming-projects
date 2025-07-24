@@ -2,6 +2,7 @@ name: Propose a project
 description: Propose a new software week project.
 title: ""
 labels: ["project", "awaiting approval"]
+projects: ["UCL-ARC/cdt-programming-projects"]
 body:
   - type: input
     id: proposer

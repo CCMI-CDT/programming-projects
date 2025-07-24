@@ -1,4 +1,4 @@
-name: Propose a project (form)
+name: Propose a project
 description: Propose a new software week project.
 title: "<Project title>"
 labels: ["project", "awaiting approval"]

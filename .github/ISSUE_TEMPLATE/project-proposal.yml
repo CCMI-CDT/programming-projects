@@ -6,9 +6,9 @@ body:
   - type: input
     id: proposer
     attributes:
-      label: Your name and department
+      label: Your name, department, and University
       description: Who is proposing this project?
-      placeholder: eg. James Bond, Department of Computer Science
+      placeholder: Your Name, Your Department, Your University
     validations:
       required: true
   - type: input
@@ -21,8 +21,8 @@ body:
   - type: textarea
     id: background
     attributes:
-      label: Please write a brief description of the application area of probject
-      description: You should aim for this to be understandable to student on the CDT.
+      label: Please write a brief description of the application area of project
+      description: You should aim for this to be understandable to a student on the CDT.
       placeholder: Write your description here
     validations:
       required: true
@@ -60,11 +60,19 @@ body:
       label: Links to any relevant papers, blog posts, etc.
     validations:
       required: false
+#  - type: checkboxes
+#    id: terms
+#    attributes:
+#      label: CDT's expected behaviour
+#      description: By submitting this issue, you agree to follow the CDT's expected behaviour (link to be added).
+#      options:
+#        - label: I agree to follow the CDT's expected behaviour
+#          required: true
   - type: checkboxes
-    id: terms
+    id: public
     attributes:
-      label: CDT's expected behaviour
-      description: By submitting this issue, you agree to follow the CDT's expected behaviour (link to be added).
+      label: Make project public
+      description: By submitting this issue, you agree that your project proposal will be publicly visible
       options:
-        - label: I agree to follow the CDT's expected behaviour
+        - label: I understand that this project proposal will be public
           required: true

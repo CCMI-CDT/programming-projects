@@ -1,14 +1,13 @@
 # CDT Programming Projects
 
-This repository will be used to propose projects for the
-[CCMT CDT](https://ccmi-cdt.org/)'s software weeks.
+This repository will be used to propose projects to be worked on as part of the
+[CCMT CDT](https://ccmi-cdt.org/). There projects will be worked on by students
+in the CDT alongside their main PhD project and may last for various amounts of
+time: from a few months to multiple years.
 
-## Software weeks
-
-Once per university term, the CDT will hold a software week. During these
-weeks, the students will have the opportunity to work on shorter software
-projects proposed by members of UCL and Imperial.
-The location of the software weeks will alternate between Imperial and UCL.
+Once per university term, the CDT will hold a software week. These software weeks will include
+time to discuss these software projects and celebrate progress made on them, as well as planning
+future work on existing and new projects.
 
 ## Proposing a project
 

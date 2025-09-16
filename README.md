@@ -29,3 +29,12 @@ The "Propose a project" form will ask you to enter:
 
 Project proposals submitted using this form will be visible to the public, so please only enter
 information that you are happy for anyone to view.
+
+## Getting involved in a project
+
+If you are a student in the CDT and want the be involved in working on a project,
+the easiest way to express this is to comment on the issue for the project. You can also
+use the issue to ask questions about the project.
+It may be possible (and often is actively desired) for multiple people to work on a
+project together, so don't be immediately put off if someone is already working
+on a project that looks interesting to you.

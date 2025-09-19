@@ -12,7 +12,7 @@ future work on existing and new projects.
 ## Proposing a project
 
 If you don't already have a GitHub account, you will need to create one before you can propose a project.
-Once you're logged in to GitHub, a project can be proposed by [opening an issue](https://github.com/UCL-ARC/cdt-programming-projects/issues)
+Once you're logged in to GitHub, a project can be proposed by [opening an issue](https://github.com/CCMI-CDT/programming-projects/issues/new?template=project-proposal.yml)
 on this repository using the "Propose a project" template form.
 
 Anyone associated with Imperial, UCL or one of CCMI's partners is encouraged to propose a project.
@@ -40,7 +40,9 @@ information that you are happy for anyone to view.
 
 ## Getting involved in a project
 
-If you are a student in the CDT and want the be involved in working on a project,
+You can browse the list of currently proposed projects on [this repository's issue tracker](https://github.com/UCL-ARC/cdt-programming-projects/issues).
+
+If you are a student in the CDT and want to be involved in working on a project,
 the easiest way to express this is to comment on the issue for the project. You can also
 use the issue to ask questions about the project.
 It may be possible (and often is actively desired) for multiple people to work on a

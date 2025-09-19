@@ -15,6 +15,14 @@ If you don't already have a GitHub account, you will need to create one before y
 Once you're logged in to GitHub, a project can be proposed by [opening an issue](https://github.com/UCL-ARC/cdt-programming-projects/issues)
 on this repository using the "Propose a project" template form.
 
+Anyone associated with Imperial, UCL or one of CCMI's partners is encouraged to propose a project.
+This includes, but is not limited to, academics, postdocs, research software engineers, and PhD students
+including those that are part of the CDT itself.
+
+The proposer of a project is expected to commit some time towards guiding students taking part
+in the project and reviewing their contributions. The size of the time commitment will vary
+depending on the nature of the project.
+
 The "Propose a project" form will ask you to enter:
 
 - The title of your project
